@@ -1,0 +1,5 @@
+black
+invoke
+pip-tools
+pip-compile-multi
+faker
